@@ -10,7 +10,7 @@ draft: false
 
 Questions will be asked along the course's learning goals, and complexity levels (e.g., knowledge, application, evaluation). For details, see [here](../exam#content).
 
-Below, you can find a few example questions, which will be discussed with students in the final live stream of this course.
+Below, you can find a few example questions, which will be discussed with students in the final live stream of this course before the exam date.
 
 
 ## Part 1
