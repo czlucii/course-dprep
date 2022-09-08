@@ -22,8 +22,8 @@ New to Git and Markdown? Then view https://tilburgsciencehub.com to learn how.
 - Please install Hugo
 - Please fork this site to your account, and clone it to your local disk
 - Start up the webserver by typing `hugo server`
-- Not sure what to contribute? Head over to the issues page on GitHub to see what are good issues to address. Of course, you're welcome to suggest your own changes.
-- Make your changes in new branches, and issue a PR.
+- Not sure what to contribute? Head over to the issues page on GitHub to see what are good issues to address. Of course, you're welcome to suggest your own changes to the site
+- Make your changes in new branches, and issue a PR (pull request)
 
 #### Development Roadmap
 
